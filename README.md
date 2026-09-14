@@ -2,7 +2,7 @@
 📞 Telesales Performance Dashboard — Power BI
 ---
 🖼️ Dashboard Preview
-![Telesales Performance Dashboard](https://github.com/DataWithDilkhush/Telesales-Dashboard-Power-BI/blob/main/Telesales%20Dashboard%20Power%20BI.png)
+![Telesales Performance Dashboard](https://github.com/DataWithDilkhush/Telesales-Dashboard-Power-BI/blob/main/Telesales-PowerBI-Dashboard-Image/Telesales%20Dashboard%20Power%20BI.png)
 > \*A dark-themed, orange-accented single-page Power BI dashboard — featuring KPI cards, city-wise donut chart, monthly trend line, top agent rankings, call log table, and outcome analysis.\*
 ---
 📌 Project Overview
@@ -62,7 +62,7 @@ Raw Excel data alone cannot answer these questions quickly.
 To build a single-page, dark-themed interactive dashboard that gives sales managers a complete 360° view of telesales operations — from team-level revenue down to individual call logs — with one-click product filtering.
 ---
 
-![Telesales Performance Dashboard](https://github.com/DataWithDilkhush/Telesales-Dashboard-Power-BI/blob/main/dashboard/Telesales%20Dashboard%20power%20bi.png)
+![Telesales Performance Dashboard](https://github.com/DataWithDilkhush/Telesales-Dashboard-Power-BI/blob/main/Telesales-PowerBI-Dashboard-Image/Telesales%20Dashboard%20power%20bi.png)
 
 🔍 Walkthrough of Key Visuals
 1. 💰 KPI Card — Total Sales (Top Left)
