@@ -2,7 +2,7 @@
 📞 Telesales Performance Dashboard — Power BI
 ---
 🖼️ Dashboard Preview
-![Telesales Performance Dashboard](C:\Users\Dilkhush\OneDrive\Desktop\Dilkhush\Project\Telesale Power bi Dashboard)
+![Telesales Performance Dashboard](https://github.com/DataWithDilkhush/Telesales-Dashboard-Power-BI/blob/main/Telesales%20Dashboard%20Power%20BI.png)
 > \*A dark-themed, orange-accented single-page Power BI dashboard — featuring KPI cards, city-wise donut chart, monthly trend line, top agent rankings, call log table, and outcome analysis.\*
 ---
 📌 Project Overview
