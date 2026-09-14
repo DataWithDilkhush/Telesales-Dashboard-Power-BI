@@ -5,8 +5,10 @@
 ![Telesales Performance Dashboard](https://github.com/DataWithDilkhush/Telesales-Dashboard-Power-BI/blob/main/Telesales-PowerBI-Dashboard-Image/Telesales%20Dashboard%20Power%20BI.png)
 > \*A dark-themed, orange-accented single-page Power BI dashboard — featuring KPI cards, city-wise donut chart, monthly trend line, top agent rankings, call log table, and outcome analysis.\*
 ---
-📌 Project Overview
-The Telesales Performance Dashboard is a fully interactive Power BI report designed to monitor and analyze the complete telesales operations of a financial services company selling products like Home Loans, Credit Cards, Insurance, Mutual Funds, Personal Loans, and Demat Accounts.
+
+## 📌 Project Overview
+
+The **Telesales Performance Dashboard** is a fully interactive Power BI report designed to monitor and analyze the complete telesales operations of a financial services company selling products like Home Loans, Credit Cards, Insurance, Mutual Funds, Personal Loans, and Demat Accounts.
 This dashboard helps sales managers, team leads, and business analysts to:
 💰 Track total revenue across teams, agents, cities, and products
 🏆 Identify top-performing agents and compare team performance
