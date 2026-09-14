@@ -13,6 +13,7 @@ This dashboard helps sales managers, team leads, and business analysts to:
 📍 Analyze city-wise sales split across 10 major Indian cities
 📊 Monitor call outcomes — Follow Up, Sale Done, Rejected, No Answer
 📈 Spot monthly sales trends and seasonal patterns over 2 years
+
 ---
 🛠️ Tech Stack
 Tool	Purpose
